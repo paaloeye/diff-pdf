@@ -20,3 +20,7 @@ mingw
 *.o
 # the final binary
 diff-pdf
+
+# clangd
+.cache
+compile_commands.json
